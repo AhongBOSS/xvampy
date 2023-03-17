@@ -12,7 +12,7 @@ I'm a self-taught engineer and I've learned all my programming skills through on
 臺中市立龍津高級中等學校  畢
 宜寧高中  就讀
 
-@Taichung, Taiwan 
+@Taichung, Taiwan
 contact :014131@inhs.tc.edu.tw
 Discord : xvampy
 github : https://github.com/xvampy/xvampy
