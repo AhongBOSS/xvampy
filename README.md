@@ -11,7 +11,7 @@ I'm a self-taught engineer and I've learned all my programming skills through on
 學歷:
 臺中市立龍津高級中等學校  畢
 
-宜寧高中  就讀
+       宜寧高中  就讀
 
 @Taichung, Taiwan
 
