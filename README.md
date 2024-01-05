@@ -16,7 +16,7 @@ I'm a self-taught engineer and I've learned all my programming skills through on
 
 contact :014131@inhs.tc.edu.tw
 
-Discord : xvampy
+Discord : 阿宏#3950
 
 github : https://github.com/xvampy/xvampy
 
